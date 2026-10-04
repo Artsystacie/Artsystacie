@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m Stacie, a STEM enthusiast interested in exploring biology, healthcare and economics. I just started on GitHub and am excited to see the possibilities it offers.
 <!--
 **Artsystacie/Artsystacie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
